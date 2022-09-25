@@ -8,8 +8,9 @@
       
   },
   {
-        "UrlTitel": "guide 1",
-    "Urltexte":"The mirrors or lenses in a telescope are called the “optics.” Really powerful telescopes can see very dim things and things that are really far away. To do that, the optics—be they mirrors or lenses—have to be really big.The bigger the mirrors or lenses, the more light the telescope can gather. Light is then concentrated by the shape of the optics. That light is what we see when we look into the telescope.",
+        "UrlTitel": "Required objective:",
+    "Urltexte":"Retrieve the painting from the harbour office/n-Retrieve the painting from Lee warehouse/nRetrieve the painting from the community building.n/Retrieve the painting from the cabin",
+	  
 	  "button_title" : "",
 	"button_url" : ""
   },
