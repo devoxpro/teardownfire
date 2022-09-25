@@ -1,0 +1,43 @@
+[
+  {
+  
+        "UrlTitel": "about",
+    "Urltexte":"A telescope is a tool that astronomers use to see faraway objects. Most telescopes, and all large telescopes, work by using curved mirrors to gather and focus light from the night sky.The first telescopes focused light by using pieces of curved, clear glass, called lenses. So why do we use mirrors today? Because mirrors are lighter, and they are easier than lenses to make perfectly smooth.",
+	  "button_title" : "",
+	"button_url" : "https://www.google.com"
+      
+  },
+  {
+        "UrlTitel": "guide 1",
+    "Urltexte":"The mirrors or lenses in a telescope are called the “optics.” Really powerful telescopes can see very dim things and things that are really far away. To do that, the optics—be they mirrors or lenses—have to be really big.The bigger the mirrors or lenses, the more light the telescope can gather. Light is then concentrated by the shape of the optics. That light is what we see when we look into the telescope.",
+	  "button_title" : "",
+	"button_url" : ""
+  },
+  {
+    "UrlTitel": "guide 2 ",
+    "Urltexte": "The optics of a telescope must be almost perfect. That means the mirrors and lenses have to be just the right shape to concentrate the light. They can’t have any spots, scratches or other flaws. If they do have such problems, the image gets warped or blurry and is difficult to see. It’s hard to make a perfect mirror, but it’s even harder to make a perfect lens.";
+	  "button_title" : "",
+	  "button_url" : ""
+ },
+  {
+    "UrlTitel": "guide 3 ",
+    "Urltexte":"If you want to save yourself the hassle of working your way around Odd World and its terrifying inhabitants, legions of YouTubers have already found all the Rainbow Friends jumpscares, with multiple compilations available. We’ve put our favourite, with all the current available Jumpscares included, below for you to watch at your leisure. There you have it, all you need to know about Roblox’s Rainbow Friends horror experience.",
+	  "button_title" : "",
+	"button_url" : ""
+ 
+  },
+  {
+    "UrlTitel": "Lenses",
+    "Urltexte":  "A telescope made with lenses is called a refracting telescope.A lens, just like in eyeglasses, bends light passing through it. In eyeglasses, this makes things less blurry. In a telescope, it makes faraway things seem closer.";
+	  "button_title" : "",
+	"button_url" : ""
+  },
+{
+     "UrlTitel": "Why Mirrors Work Better",
+    "Urltexte":"A telescope that uses mirrors is called a reflecting telescope.Unlike a lens, a mirror can be very thin. A bigger mirror does not also have to be thicker. Light is concentrated by bouncing off of the mirror. So the mirror just has to have the right curved shape.It is much easier to make a large, near-perfect mirror than to make a large, near-perfect lens. Also, since mirrors are one-sided, they are easier than lenses to clean and polish.But mirrors have their own problems. Have you ever looked into a spoon and noticed your reflection is upside down? The curved mirror in a telescope is like a spoon: It flips the image. Luckily, the solution is simple. We just use other mirrors to flip it back.",
+	"button_title" : "",
+	"button_url" : ""
+   
+    
+}
+]
