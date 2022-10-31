@@ -1,48 +1,46 @@
 [
   {
   
-        "UrlTitel": "about toca boca",
-    "Urltexte":"Toca Life World is a game created from the series of games of the world of Toca-Boka, which was created based on the animated series of the same name. The project is a kind of life simulator, where the player independently not only creates his character, his environment, but also his own rules of the game. There are practically no restrictions on the creation and arrangement of your world. The player can invent and create various life situations, which can be limited only by the author’s imagination.",
-    "button_title" : "",
+        "UrlTitel": "Introduction",
+    "Urltexte":"Toca Boca brings all of your favorite games including Toca Life: Office, City, Vacation, and Hospital in one place, Toca Life World. It gives you a chance to make stories and create your beautiful dream home using thousands of possibilities and items. It features a massive world that contains a series of locations to explore. Each location has a variety of buildings to explore and have fun by participating in thousands of fun-filled activities. The game merges several genres such as Puzzle, Education, Point-and-Click, and Virtual World. As the game starts, you find yourself in a digital world where your ultimate goal is to have fun and learn many things. An exciting cast of characters awaits you over there to play different mini-games, take part in competitions, and decorate the room.",
+	  
+	  "button_title" : "",
 	"button_url" : "https://www.google.com"
       
   },
   {
-        "UrlTitel": "Toca Life World: A Beginner’s Guide",
-    "Urltexte":"At the start of the game, you will be prompted to create your first character. You can choose any image from the suggested ones. Next, the world of Life CityToca and the character system are built, where you can create new heroes. Then the game will take you to your first apartment. This is where you can start your adventure. At the house you will be greeted by the main characters of the animated series - Rita and Nari. At the start of the game, you get the opportunity to create an image of any of the 8 heroes, and you will also have access to several locations. You can immediately try your abilities in movement and interaction with the heroes.Another building that you can visit at the start is the post office. If you received a gift, a red circle will light up above the house. To receive a present, you need to go to the post office and tap on the transport container. After that, your gift will appear on the tape.If you do not want to create heroes yourself, then you can use ready-made characters. At the bottom of the window, at the entrance to any building in the city, a panel with a choice of heroes will be available to you.",
-    "button_title" : "",
+        "UrlTitel": "Welcome to Toca Life World",
+    "Urltexte":"Whether you want to have a wild hairstyle, visit the park or just hang out with buddies, Toca Life World got you all things. This is your world where you can’t only create avatars, but also make stories and discover anything possible in nowadays world. Apart from that, you can go into detail to create plots with your customized avatars in any location you love to explore. Not only characters, but cute pets are also available over there to entertain you by showing you awesome tricks. When playing the game, you can take your character to a barber to dye his/her hair, give the nail cut, and head to a cloth shop for an exquisite dress.";
+	  
+	  "button_title" : "",
 	"button_url" : ""
   },
   {
-    "UrlTitel": "How to get all locations for free?",
-    "Urltexte": "To do this, you need to exit the game and start it again. On the loading screen, where the settings are located, and the 'Play' button, there is a button in the form of a shopping cart, colored green. This is Toki’s shop. After entering it, you should scroll through all the shopping offers to the very bottom, until you see a button that says: 'Restore all purchases'. You should click on it. After that, the progress of the operation with the inscription: 'Wait' will appear on the screen. After a few seconds, 'Excellent! Everything is ready!' After that, you need to go into the game and check if this trick worked for you. All paid locations and buildings should appear in your Toki world.",
-
-    "button_title" : "",
+    "UrlTitel": "8 Locations and 39 Characters",
+    "Urltexte": "You aren’t only limited to one location, as there are up to eight places added for you to explore and have fun. The prominent locations are the following:\nBop City \nVibrant City \nShopping Mall\nHairdresser\nAll locations are at your fingertips, just tap the targeted place and you will be there within no time. You can rotate the world using touch controls and can give it to your favorite location to open it. Do you love playing other educational games of the Toca Life series, such as Vacation, City, Office, and more? If yes, then upon downloading Toca Life World you will enjoy all that stuff into one pack.",
+	  
+	  "button_title" : "",
 	  "button_url" : ""
  },
   {
-    "UrlTitel": "How to add non-Steam games to your Steam Library?",
-    "Urltexte":"Why aren't my controller vibrations working?\"\nThis game has vibration signals, which serve as warnings to help with being prepared for things such as upcoming lines. If yours isn't working, possible fixes are:\n\nMake sure Steam(if running game natively), DS4Windows, or any other program that affects controller input isn't running in the background \nIf you're using a NS Pro Controller, try adding the game to your Steam Library as a non-Steam game* and playing it from there.",
+    "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
+    "Urltexte":"You can cook various dishes in the game. There are places for cooking in the Apartment, in (your) designer houses (if you want to put a hob and oven). All ingredients can be found in locations and secret places (we wrote about some below). Sometimes you can go into any available building and see if you can profit from something. Do not hesitate to borrow food from your neighbors, they will come in handy for a variety of game moments and fictional stories. It should be noted that cooking is not overshadowed by the presence of additional appliances (ovens, dishes, and so on). You just need to take the right ingredients and combine them in your character’s hand. And to set the table beautifully, there are various culinary decorations and special dishes.\n\nSugar recipes (it’s worth noting that sugar packets are not available in free locations, to make sweets, you need to buy some locations for real money):\n\nSugar + Cherry = Cherry Pie.\nSugar + pumpkin = pumpkin pie.\nSugar + apple = apple pie.\nSugar + blueberries = blue birthday cake.\nSugar + strawberry = pink birthday cake.\nSugar + egg = French macaroni (sweetness).\nSugar + sugarcane = sugarcane cake.\n",
 	  "button_title" : "",
 	"button_url" : ""
  
   },
   {
-    "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
-    "Urltexte":"At the start of the game, you will be prompted to create your first character. You can choose any image from the suggested ones. Next, the world of Life CityToca and the character system are built, where you can create new heroes. Then the game will take you to your first apartment. This is where you can start your adventure. At the house you will be greeted by the main characters of the animated series - Rita and Nari. At the start of the game, you get the opportunity to create an image of any of the 8 heroes, and you will also have access to several locations. You can immediately try your abilities in movement and interaction with the heroes.Another building that you can visit at the start is the post office. If you received a gift, a red circle will light up above the house. To receive a present, you need to go to the post office and tap on the transport container. After that, your gift will appear on the tape.If you do not want to create heroes yourself, then you can use ready-made characters. At the bottom of the window, at the entrance to any building in the city, a panel with a choice of heroes will be available to you. ",
+    "UrlTitel": "Purchasable Characters and New Locations",
+    "Urltexte": "You should keep in mind that the game isn’t completely free, as it has a premium version too. In the free version, the game brings you to 8 locations and 33 characters, while the premium version contains over 50 locations, 300 characters, and up to 125 pets. As well as, the developer promises to add new locations and characters soon.",
+	  
 	  "button_title" : "",
 	"button_url" : ""
   },
 {
-     "UrlTitel": "How to get all locations for free?",
-    "Urltexte":"To do this, you need to exit the game and start it again. On the loading screen, where the settings are located, and the 'Play' button, there is a button in the form of a shopping cart, colored green. This is Toki’s shop. After entering it, you should scroll through all the shopping offers to the very bottom, until you see a button that says: 'Restore all purchases'. You should click on it. After that, the progress of the operation with the inscription: 'Wait' will appear on the screen. After a few seconds, 'Excellent! Everything is ready!' After that, you need to go into the game and check if this trick worked for you. All paid locations and buildings should appear in your Toki world.",
+     "UrlTitel": "Snack recipes:",
+    "Urltexte":"Tortilla + chicken = chicken roll.\nTortilla + sausage = sausage roll.\nTortilla + tofu = tofu roll.\nTortilla + fish = fish tacos.\nTortilla + steak = meat tacos.\nMix for pizza + tomato = pizza \"Margarita\".\nSalad + chicken = chicken salad.\nSalad + brie = brie salad.\nBacon + egg = breakfast.\nTofu + Brown Sauce = Tofu with Brown Sauce.\nCocoa powder + egg = chocolate truffle.",
+
   "button_title" : "",
-	"button_url" : ""
-	},
-  {
-    "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
-    "Urltexte":"You can cook various dishes in the game. There are places for cooking in the Apartment, in (your) designer houses (if you want to put a hob and oven). All ingredients can be found in locations and secret places (we wrote about some below). Sometimes you can go into any available building and see if you can profit from something. Do not hesitate to borrow food from your neighbors, they will come in handy for a variety of game moments and fictional stories. It should be noted that cooking is not overshadowed by the presence of additional appliances (ovens, dishes, and so on). You just need to take the right ingredients and combine them in your character’s hand. And to set the table beautifully, there are various culinary decorations and special dishes.\n\nSugar recipes (it’s worth noting that sugar packets are not available in free locations, to make sweets, you need to buy some locations for real money):\n\nSugar + Cherry = Cherry Pie.\nSugar + pumpkin = pumpkin pie.\nSugar + apple = apple pie.\nSugar + blueberries = blue birthday cake.\nSugar + strawberry = pink birthday cake.\nSugar + egg = French macaroni (sweetness).\nSugar + sugarcane",
-	  "button_title" : "",
 	"button_url" : ""
    
     
