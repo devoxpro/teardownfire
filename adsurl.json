@@ -1,20 +1,44 @@
+[
+  {
+  
+        "UrlTitel": "Star discovery Scratchin' Melodii now",
+    "Urltexte":"Scratchin' Melodii is a Rhythm Game by LJ LephemStar with a demo released for SAGE 2021 with three songs and another released for SAGE 2022 with five songs and the first part of the story mode. It's mostly inspired by games like PaRappa the Rapper and Um Jammer Lammy, with plenty of its own twists to keep things fresh.",
+    "button_title" : "",
+	"button_url" : "https://www.google.com"
+      
+  },
+  {
+        "UrlTitel": "gameplay",
+    "Urltexte":"During gameplay, you have to push buttons either to repeat the opponent's lyrics/music or support them. Doing well enough lets Melodii proceed, but deviating from the given song by adding some additional beats grants more points and can even let Melodii ascend to a higher dimension and freestyle. The city the game takes place in is also explorable, with several locals to talk to and goodies to find, but you can also jump into each song in Quick-Groove mode.",
+    "button_title" : "",
+	"button_url" : ""
+  },
+  {
+    "UrlTitel": "Why isn't my controller working/mapped right?",
+    "Urltexte": "If your control isn't working properly, the first thing you should try is restarting the game or adding the game to your Steam Library as a non-Steam game.* \n\n-Other possible solutions: \n\n-(If playing natively)\n\n-Make sure Steam, DS4Windows, or any other program that affects controller input isn't running in the background\n-Make sure your controller is player 1\nIf you're using an NS Pro Controller natively, try using it wirelessly\n(If added to Steam)\n\n-Make sure DS4Windows or any other program that affects controller input isn't running in the background\nMake sure your controller is player 1\nMake sure you have the config for your controller enabled in your Steam settings.",
+
+    "button_title" : "",
+	  "button_url" : ""
+ },
+  {
+    "UrlTitel": "How to add non-Steam games to your Steam Library?",
+    "Urltexte":"Why aren't my controller vibrations working?\"\nThis game has vibration signals, which serve as warnings to help with being prepared for things such as upcoming lines. If yours isn't working, possible fixes are:\n\nMake sure Steam(if running game natively), DS4Windows, or any other program that affects controller input isn't running in the background \nIf you're using a NS Pro Controller, try adding the game to your Steam Library as a non-Steam game* and playing it from there.",
+	  "button_title" : "",
+	"button_url" : ""
+ 
+  },
+  {
+    "UrlTitel": "I'm experiencing a bit of lag.",
+    "Urltexte":  "From my testing, I've only experienced hiccups at the beginning of a song when I have a program open that's using up a lot of my PC's power while the game is trying to run (Usually the Unity Editor). BUT, if you do run into any a quick \"Retry\" from the pause menu should let the game run  everything smoothly from there. Try turning the quality down in the Options menu if needed as well! Do keep in mind that there is a certain point where some lower-end PCs just cannot handle the game, however.",
+	  "button_title" : "",
+	"button_url" : ""
+  },
 {
-    "show_ads": false,
-    "bannerAd": ["", "", ""],
-    "InterAd": ["max", "max", "max"],
-	"nativeAd": ["admob", "admob", "facebook"],
-    "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-    "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-	"admob_native": "ca-app-pub-3940256099942544/2247696110",
-    "facebook_banner": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-    "facebook_inter": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-	"facebook_native": "IMG_16_9_APP_INSTALL#173186393601951_356298065290782",
-    "unityGameID": "3883855",
-    "unityBanner": "banner",
-    "unityInter": "video",
-    "max_banner": "",
-    "max_inter": "5344e067ccf76334",
-	"max_reward": "",
-    "more_btn": "More",
-    "more_btn_link": "https://www.google.com"
+     "UrlTitel": "the game cant fit my screen??",
+    "Urltexte":"Try going to  Options from the main menu, then make sure Windowed Mode is unchecked. If it is    unchecked    and still not fit to screen, then adjust Screen Resolution.",
+  "button_title" : "",
+	"button_url" : ""
+   
+    
 }
+]
