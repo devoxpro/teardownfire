@@ -1,45 +1,41 @@
 [
   {
   
-        "UrlTitel": "Introduction",
-    "Urltexte":"Toca Boca brings all of your favorite games including Toca Life: Office, City, Vacation, and Hospital in one place, Toca Life World. It gives you a chance to make stories and create your beautiful dream home using thousands of possibilities and items. It features a massive world that contains a series of locations to explore. Each location has a variety of buildings to explore and have fun by participating in thousands of fun-filled activities. The game merges several genres such as Puzzle, Education, Point-and-Click, and Virtual World. As the game starts, you find yourself in a digital world where your ultimate goal is to have fun and learn many things. An exciting cast of characters awaits you over there to play different mini-games, take part in competitions, and decorate the room.",
-	  
-	  "button_title" : "",
+        "UrlTitel": "Star discovery Scratchin' Melodii now",
+    "Urltexte":"Scratchin' Melodii is a Rhythm Game by LJ LephemStar with a demo released for SAGE 2021 with three songs and another released for SAGE 2022 with five songs and the first part of the story mode. It's mostly inspired by games like PaRappa the Rapper and Um Jammer Lammy, with plenty of its own twists to keep things fresh.",
+    "button_title" : "",
 	"button_url" : "https://www.google.com"
       
   },
   {
-        "UrlTitel": "Welcome to Toca Life World",
-    "Urltexte":"Whether you want to have a wild hairstyle, visit the park or just hang out with buddies, Toca Life World got you all things. This is your world where you can’t only create avatars, but also make stories and discover anything possible in nowadays world. Apart from that, you can go into detail to create plots with your customized avatars in any location you love to explore. Not only characters, but cute pets are also available over there to entertain you by showing you awesome tricks. When playing the game, you can take your character to a barber to dye his/her hair, give the nail cut, and head to a cloth shop for an exquisite dress.";
-	  
-	  "button_title" : "",
+        "UrlTitel": "gameplay",
+    "Urltexte":"During gameplay, you have to push buttons either to repeat the opponent's lyrics/music or support them. Doing well enough lets Melodii proceed, but deviating from the given song by adding some additional beats grants more points and can even let Melodii ascend to a higher dimension and freestyle. The city the game takes place in is also explorable, with several locals to talk to and goodies to find, but you can also jump into each song in Quick-Groove mode.",
+    "button_title" : "",
 	"button_url" : ""
   },
   {
-    "UrlTitel": "8 Locations and 39 Characters",
-    "Urltexte": "You aren’t only limited to one location, as there are up to eight places added for you to explore and have fun. The prominent locations are the following:\nBop City \nVibrant City \nShopping Mall\nHairdresser\nAll locations are at your fingertips, just tap the targeted place and you will be there within no time. You can rotate the world using touch controls and can give it to your favorite location to open it. Do you love playing other educational games of the Toca Life series, such as Vacation, City, Office, and more? If yes, then upon downloading Toca Life World you will enjoy all that stuff into one pack.",
-	  
-	  "button_title" : "",
+    "UrlTitel": "Why isn't my controller working/mapped right?",
+    "Urltexte": "If your control isn't working properly, the first thing you should try is restarting the game or adding the game to your Steam Library as a non-Steam game.* \n\n-Other possible solutions: \n\n-(If playing natively)\n\n-Make sure Steam, DS4Windows, or any other program that affects controller input isn't running in the background\n-Make sure your controller is player 1\nIf you're using an NS Pro Controller natively, try using it wirelessly\n(If added to Steam)\n\n-Make sure DS4Windows or any other program that affects controller input isn't running in the background\nMake sure your controller is player 1\nMake sure you have the config for your controller enabled in your Steam settings.",
+
+    "button_title" : "",
 	  "button_url" : ""
  },
   {
-    "UrlTitel": "Toca Life World: Cooking Recipes & Where to Get Ingredients",
-    "Urltexte":"You can cook various dishes in the game. There are places for cooking in the Apartment, in (your) designer houses (if you want to put a hob and oven). All ingredients can be found in locations and secret places (we wrote about some below). Sometimes you can go into any available building and see if you can profit from something. Do not hesitate to borrow food from your neighbors, they will come in handy for a variety of game moments and fictional stories. It should be noted that cooking is not overshadowed by the presence of additional appliances (ovens, dishes, and so on). You just need to take the right ingredients and combine them in your character’s hand. And to set the table beautifully, there are various culinary decorations and special dishes.\n\nSugar recipes (it’s worth noting that sugar packets are not available in free locations, to make sweets, you need to buy some locations for real money):\n\nSugar + Cherry = Cherry Pie.\nSugar + pumpkin = pumpkin pie.\nSugar + apple = apple pie.\nSugar + blueberries = blue birthday cake.\nSugar + strawberry = pink birthday cake.\nSugar + egg = French macaroni (sweetness).\nSugar + sugarcane = sugarcane cake.\n",
+    "UrlTitel": "How to add non-Steam games to your Steam Library?",
+    "Urltexte":"Why aren't my controller vibrations working?\"\nThis game has vibration signals, which serve as warnings to help with being prepared for things such as upcoming lines. If yours isn't working, possible fixes are:\n\nMake sure Steam(if running game natively), DS4Windows, or any other program that affects controller input isn't running in the background \nIf you're using a NS Pro Controller, try adding the game to your Steam Library as a non-Steam game* and playing it from there.",
 	  "button_title" : "",
 	"button_url" : ""
  
   },
   {
-    "UrlTitel": "Purchasable Characters and New Locations",
-    "Urltexte": "You should keep in mind that the game isn’t completely free, as it has a premium version too. In the free version, the game brings you to 8 locations and 33 characters, while the premium version contains over 50 locations, 300 characters, and up to 125 pets. As well as, the developer promises to add new locations and characters soon.",
-	  
+    "UrlTitel": "I'm experiencing a bit of lag.",
+    "Urltexte":  "From my testing, I've only experienced hiccups at the beginning of a song when I have a program open that's using up a lot of my PC's power while the game is trying to run (Usually the Unity Editor). BUT, if you do run into any a quick \"Retry\" from the pause menu should let the game run  everything smoothly from there. Try turning the quality down in the Options menu if needed as well! Do keep in mind that there is a certain point where some lower-end PCs just cannot handle the game, however.",
 	  "button_title" : "",
 	"button_url" : ""
   },
 {
-     "UrlTitel": "Snack recipes:",
-    "Urltexte":"Tortilla + chicken = chicken roll.\nTortilla + sausage = sausage roll.\nTortilla + tofu = tofu roll.\nTortilla + fish = fish tacos.\nTortilla + steak = meat tacos.\nMix for pizza + tomato = pizza \"Margarita\".\nSalad + chicken = chicken salad.\nSalad + brie = brie salad.\nBacon + egg = breakfast.\nTofu + Brown Sauce = Tofu with Brown Sauce.\nCocoa powder + egg = chocolate truffle.",
-
+     "UrlTitel": "the game cant fit my screen??",
+    "Urltexte":"Try going to  Options from the main menu, then make sure Windowed Mode is unchecked. If it is    unchecked    and still not fit to screen, then adjust Screen Resolution.",
   "button_title" : "",
 	"button_url" : ""
    
