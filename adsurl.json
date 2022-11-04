@@ -1,5 +1,5 @@
 {
-    "show_ads": false,
+    "show_ads": true,
     "bannerAd": ["", "", ""],
     "InterAd": ["unity", "unity", "unity"],
 	"nativeAd": ["", "", ""],
