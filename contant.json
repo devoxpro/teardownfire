@@ -1,42 +1,43 @@
 [
   {
   
-        "UrlTitel": "Star discovery Scratchin' Melodii now",
-    "Urltexte":"Scratchin' Melodii is a Rhythm Game by LJ LephemStar with a demo released for SAGE 2021 with three songs and another released for SAGE 2022 with five songs and the first part of the story mode. It's mostly inspired by games like PaRappa the Rapper and Um Jammer Lammy, with plenty of its own twists to keep things fresh.",
-    "button_title" : "",
+        "UrlTitel": "REVIEWSTeardown review",
+    "Urltexte":"The last time I truly played a voxel game was Cloudpunk, and if you’ve read that review then you’ll know my thoughts on how that went. Since then, voxel games have left a bad taste in my mouth. But Teardown? Now that was something that was sure to reset my interest in these types of games — a physics-based game with voxel graphics, something that didn’t look like a thrown-together mess and had some heart and character in it. I judged the book by its cover, and I was hooked./nSee, Teardown is a really fun game. It’s got a fun story as you make your way up through the world of demolition — your clientele is constantly going back and forth with each other as you (anonymously) do their dirty work, while police and investigators try to track down criminal enterprises with your help. There’s no emotional depth to the narrative, but that’s totally fine. I mean, this game is about blowing stuff up while your GPU smolders under your desk; the story is a backdrop to the rest of the experience."
+	  "button_title" : "",
 	"button_url" : "https://www.google.com"
       
   },
   {
         "UrlTitel": "gameplay",
-    "Urltexte":"During gameplay, you have to push buttons either to repeat the opponent's lyrics/music or support them. Doing well enough lets Melodii proceed, but deviating from the given song by adding some additional beats grants more points and can even let Melodii ascend to a higher dimension and freestyle. The city the game takes place in is also explorable, with several locals to talk to and goodies to find, but you can also jump into each song in Quick-Groove mode.",
-    "button_title" : "",
+    "Urltexte":"what makes Teardown worth your time? Well, there are two major things you’ll do in this game: 1) blow everything up in Sandbox or 2) spend time in the campaign. Let’s tackle the campaign since we just spoke about the story. After every mission, you’ll receive an email from a client requesting your assistance with something. This might be destroying a monument so that your client can one-up their rival, collecting equipment for an investigation, or just helping out someone so their business can grow ahead of their competition. All of these involve breaking and entering in some capacity, and there’s a ton of semblance between each mission. For the ones where you need to collect something, the game will give you a time limit (typically about 60 seconds) to complete the objectives and get out. This could be stealing artwork, so you need to set up paths and routes to do so. You’ll spend a bit of time setting up your path, asking yourself a bunch of questions as you determine your strategy "
+	  "button_title" : "",
 	"button_url" : ""
   },
   {
-    "UrlTitel": "Why isn't my controller working/mapped right?",
-    "Urltexte": "If your control isn't working properly, the first thing you should try is restarting the game or adding the game to your Steam Library as a non-Steam game.* \n\n-Other possible solutions: \n\n-(If playing natively)\n\n-Make sure Steam, DS4Windows, or any other program that affects controller input isn't running in the background\n-Make sure your controller is player 1\nIf you're using an NS Pro Controller natively, try using it wirelessly\n(If added to Steam)\n\n-Make sure DS4Windows or any other program that affects controller input isn't running in the background\nMake sure your controller is player 1\nMake sure you have the config for your controller enabled in your Steam settings.",
-
+    "UrlTitel": "Liquify for Teardown",
+    "Urltexte": "Turn any solid shape into a liquid voxel mess! Press 'left mouse button' to liquify! Press 'R' to remove all liquid voxels! Press 'C' for zero-gravity fun! Now with an options menu on the bottom when you press 'Escape' to pause game!\n!!WARNING!!\nThis is an extremely laggy mod! When you liquify something, you turn 1 object into 100s or 1000s of objects ... of course it lags. This was just a fun coding exercise to use the new spawning system. I beg of you, I am tired of seeing these comments: 'this is cool but my PC crashed' or 'good mod but why is it 10fps'\nCredit goes to Bingle, who showcased this in a single video in the Official Teardown discord but was too lazy to finish his version and upload it to the workshop. A month has passed since he shared it there and I decided to reverse engineer his video to make this mod myself since I'm tired of waiting for such a cool thing.."
     "button_title" : "",
 	  "button_url" : ""
  },
   {
-    "UrlTitel": "How to add non-Steam games to your Steam Library?",
-    "Urltexte":"Why aren't my controller vibrations working?\"\nThis game has vibration signals, which serve as warnings to help with being prepared for things such as upcoming lines. If yours isn't working, possible fixes are:\n\nMake sure Steam(if running game natively), DS4Windows, or any other program that affects controller input isn't running in the background \nIf you're using a NS Pro Controller, try adding the game to your Steam Library as a non-Steam game* and playing it from there.",
+    "UrlTitel": "TeaREX for Teardown",
+    "Urltexte":"It's a spawnable AI Tyrannosaurus Rex!\nHOW TO USE:\nOnce you are playing, hit the Esc/pause button and look for the Spawn option at the bottom. Click this to find a menu of available items and choose which one you want to put in the game."
 	  "button_title" : "",
 	"button_url" : ""
  
   },
   {
-    "UrlTitel": "I'm experiencing a bit of lag.",
-    "Urltexte":  "From my testing, I've only experienced hiccups at the beginning of a song when I have a program open that's using up a lot of my PC's power while the game is trying to run (Usually the Unity Editor). BUT, if you do run into any a quick \"Retry\" from the pause menu should let the game run  everything smoothly from there. Try turning the quality down in the Options menu if needed as well! Do keep in mind that there is a certain point where some lower-end PCs just cannot handle the game, however.",
+    "UrlTitel": "Piano Fall Weapon for Teardown",
+    "Urltexte":  "Have a need to classically drop a grand piano on top of all that annoys you? Well now you can! With this mod, you can even shower the destruction on all the pesky objects you find infuriating with a simple swing of a conducting baton.\nOr maybe you can peacefully enjoy playing on one, with your feels or with a sledgehammer.\n\nA classic joke as a mod, that complements Teardowns' destruction mechanics nicely.\n\nHow To Use\n\n\nPress and HOOOLD LMB to CHAAARGE the force of piano being dropped.\nPress LMB + RMB to shower grand pianos\nPress MMB to spawn grand piano\nPress Q to toggle between explosive and non-explosive pianos."
+	  
 	  "button_title" : "",
 	"button_url" : ""
   },
 {
-     "UrlTitel": "the game cant fit my screen??",
-    "Urltexte":"Try going to  Options from the main menu, then make sure Windowed Mode is unchecked. If it is    unchecked    and still not fit to screen, then adjust Screen Resolution.",
-  "button_title" : "",
+     "UrlTitel": "NextBot Base for Teardown",
+    "Urltexte":"NextBot will find you everywhere, destroy everything. Based on popular Gmod addon.\nYou can also use this as base for your nextbot mod."
+	
+	"button_title" : "",
 	"button_url" : ""
    
     
